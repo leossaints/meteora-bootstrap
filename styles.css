@@ -1,0 +1,32 @@
+/* Categorias pt2 */
+
+.botao-lilas {
+    background: #9353FF;
+}
+
+/* INFORMAÇÕES */
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+/* Form */
+
+.div-novidades {
+    width: 325px;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+}
